@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhayes94
+- 👋 Hi, I’m Raeona
 - 👀 I’m interested in all things cybersecurity 
 - 🌱 I’m currently learning foundations of cybersecurity 
 - 💞️ I’m looking to collaborate on any beginner projects
